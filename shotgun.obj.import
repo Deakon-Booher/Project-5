@@ -2,14 +2,14 @@
 
 importer="wavefront_obj"
 type="Mesh"
-path="res://.import/shotgun.obj-9a09690fe1ec43010e4b1bb6cd32ea4d.mesh"
+path="res://.import/shotgun.obj-158aad08bb00cf3f35ef957c180a7281.mesh"
 
 [deps]
 
-files=[ "res://.import/shotgun.obj-9a09690fe1ec43010e4b1bb6cd32ea4d.mesh" ]
+files=[ "res://.import/shotgun.obj-158aad08bb00cf3f35ef957c180a7281.mesh" ]
 
-source_file="res://Assets/shotgun.obj"
-dest_files=[ "res://.import/shotgun.obj-9a09690fe1ec43010e4b1bb6cd32ea4d.mesh", "res://.import/shotgun.obj-9a09690fe1ec43010e4b1bb6cd32ea4d.mesh" ]
+source_file="res://shotgun.obj"
+dest_files=[ "res://.import/shotgun.obj-158aad08bb00cf3f35ef957c180a7281.mesh", "res://.import/shotgun.obj-158aad08bb00cf3f35ef957c180a7281.mesh" ]
 
 [params]
 

@@ -2,16 +2,17 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/marble_albedo.png-e09403a146e14da3e6bafa5bef85282a.s3tc.stex"
+path.s3tc="res://.import/marble_albedo.png-330de4517eeff8f0c0a9a19d8035b409.s3tc.stex"
+path.etc2="res://.import/marble_albedo.png-330de4517eeff8f0c0a9a19d8035b409.etc2.stex"
 metadata={
-"imported_formats": [ "s3tc" ],
+"imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
 }
 
 [deps]
 
-source_file="res://materials/marble_albedo.png"
-dest_files=[ "res://.import/marble_albedo.png-e09403a146e14da3e6bafa5bef85282a.s3tc.stex" ]
+source_file="res://marble_albedo.png"
+dest_files=[ "res://.import/marble_albedo.png-330de4517eeff8f0c0a9a19d8035b409.s3tc.stex", "res://.import/marble_albedo.png-330de4517eeff8f0c0a9a19d8035b409.etc2.stex" ]
 
 [params]
 

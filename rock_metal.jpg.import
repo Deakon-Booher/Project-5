@@ -2,16 +2,17 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/rock_metal.jpg-874fe295fe5cd1b44ea2bc5800fedb28.s3tc.stex"
+path.s3tc="res://.import/rock_metal.jpg-5af21640ab618fdf5d03595166e2bdc4.s3tc.stex"
+path.etc2="res://.import/rock_metal.jpg-5af21640ab618fdf5d03595166e2bdc4.etc2.stex"
 metadata={
-"imported_formats": [ "s3tc" ],
+"imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
 }
 
 [deps]
 
-source_file="res://materials/rock_metal.jpg"
-dest_files=[ "res://.import/rock_metal.jpg-874fe295fe5cd1b44ea2bc5800fedb28.s3tc.stex" ]
+source_file="res://rock_metal.jpg"
+dest_files=[ "res://.import/rock_metal.jpg-5af21640ab618fdf5d03595166e2bdc4.s3tc.stex", "res://.import/rock_metal.jpg-5af21640ab618fdf5d03595166e2bdc4.etc2.stex" ]
 
 [params]
 

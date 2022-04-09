@@ -2,16 +2,17 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/texture_cheese_albedo.png-52f47b236eaab0355af16ef627f94477.s3tc.stex"
+path.s3tc="res://.import/texture_cheese_albedo.png-ced5468dd652fe22fb58e4fd3e3a4bbd.s3tc.stex"
+path.etc2="res://.import/texture_cheese_albedo.png-ced5468dd652fe22fb58e4fd3e3a4bbd.etc2.stex"
 metadata={
-"imported_formats": [ "s3tc" ],
+"imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
 }
 
 [deps]
 
-source_file="res://materials/texture_cheese_albedo.png"
-dest_files=[ "res://.import/texture_cheese_albedo.png-52f47b236eaab0355af16ef627f94477.s3tc.stex" ]
+source_file="res://texture_cheese_albedo.png"
+dest_files=[ "res://.import/texture_cheese_albedo.png-ced5468dd652fe22fb58e4fd3e3a4bbd.s3tc.stex", "res://.import/texture_cheese_albedo.png-ced5468dd652fe22fb58e4fd3e3a4bbd.etc2.stex" ]
 
 [params]
 

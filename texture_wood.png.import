@@ -2,16 +2,17 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/texture_wood.png-4ba0398752b3429ef3f524fbbda3d212.s3tc.stex"
+path.s3tc="res://.import/texture_wood.png-9b04e5a28e94d609932fce33329c7bba.s3tc.stex"
+path.etc2="res://.import/texture_wood.png-9b04e5a28e94d609932fce33329c7bba.etc2.stex"
 metadata={
-"imported_formats": [ "s3tc" ],
+"imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
 }
 
 [deps]
 
-source_file="res://materials/texture_wood.png"
-dest_files=[ "res://.import/texture_wood.png-4ba0398752b3429ef3f524fbbda3d212.s3tc.stex" ]
+source_file="res://texture_wood.png"
+dest_files=[ "res://.import/texture_wood.png-9b04e5a28e94d609932fce33329c7bba.s3tc.stex", "res://.import/texture_wood.png-9b04e5a28e94d609932fce33329c7bba.etc2.stex" ]
 
 [params]
 

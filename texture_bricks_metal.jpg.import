@@ -2,16 +2,17 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/texture_bricks_metal.jpg-ca59c1a7496af98acf8130bf7d1bc05a.s3tc.stex"
+path.s3tc="res://.import/texture_bricks_metal.jpg-432f72dd37b9668c0061f39964123e2e.s3tc.stex"
+path.etc2="res://.import/texture_bricks_metal.jpg-432f72dd37b9668c0061f39964123e2e.etc2.stex"
 metadata={
-"imported_formats": [ "s3tc" ],
+"imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
 }
 
 [deps]
 
-source_file="res://materials/texture_bricks_metal.jpg"
-dest_files=[ "res://.import/texture_bricks_metal.jpg-ca59c1a7496af98acf8130bf7d1bc05a.s3tc.stex" ]
+source_file="res://texture_bricks_metal.jpg"
+dest_files=[ "res://.import/texture_bricks_metal.jpg-432f72dd37b9668c0061f39964123e2e.s3tc.stex", "res://.import/texture_bricks_metal.jpg-432f72dd37b9668c0061f39964123e2e.etc2.stex" ]
 
 [params]
 

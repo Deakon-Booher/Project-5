@@ -2,16 +2,17 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/aluminium_albedo.png-389140f9c3a69563e539961555947ff2.s3tc.stex"
+path.s3tc="res://.import/aluminium_albedo.png-8465e536e9f8dfa1137257f84f2b50f4.s3tc.stex"
+path.etc2="res://.import/aluminium_albedo.png-8465e536e9f8dfa1137257f84f2b50f4.etc2.stex"
 metadata={
-"imported_formats": [ "s3tc" ],
+"imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
 }
 
 [deps]
 
-source_file="res://materials/aluminium_albedo.png"
-dest_files=[ "res://.import/aluminium_albedo.png-389140f9c3a69563e539961555947ff2.s3tc.stex" ]
+source_file="res://aluminium_albedo.png"
+dest_files=[ "res://.import/aluminium_albedo.png-8465e536e9f8dfa1137257f84f2b50f4.s3tc.stex", "res://.import/aluminium_albedo.png-8465e536e9f8dfa1137257f84f2b50f4.etc2.stex" ]
 
 [params]
 

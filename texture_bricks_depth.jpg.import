@@ -2,16 +2,17 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/texture_bricks_depth.jpg-b6a29bd7168111c8bf69c49959472216.s3tc.stex"
+path.s3tc="res://.import/texture_bricks_depth.jpg-b725221b03775ad5fda51e36c8539693.s3tc.stex"
+path.etc2="res://.import/texture_bricks_depth.jpg-b725221b03775ad5fda51e36c8539693.etc2.stex"
 metadata={
-"imported_formats": [ "s3tc" ],
+"imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
 }
 
 [deps]
 
-source_file="res://materials/texture_bricks_depth.jpg"
-dest_files=[ "res://.import/texture_bricks_depth.jpg-b6a29bd7168111c8bf69c49959472216.s3tc.stex" ]
+source_file="res://texture_bricks_depth.jpg"
+dest_files=[ "res://.import/texture_bricks_depth.jpg-b725221b03775ad5fda51e36c8539693.s3tc.stex", "res://.import/texture_bricks_depth.jpg-b725221b03775ad5fda51e36c8539693.etc2.stex" ]
 
 [params]
 

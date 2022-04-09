@@ -2,16 +2,17 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/wool_albedo.png-cacf2208bc756864b56878e862d3a415.s3tc.stex"
+path.s3tc="res://.import/wool_albedo.png-13b4480f7715040f550618b0867a4240.s3tc.stex"
+path.etc2="res://.import/wool_albedo.png-13b4480f7715040f550618b0867a4240.etc2.stex"
 metadata={
-"imported_formats": [ "s3tc" ],
+"imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
 }
 
 [deps]
 
-source_file="res://materials/wool_albedo.png"
-dest_files=[ "res://.import/wool_albedo.png-cacf2208bc756864b56878e862d3a415.s3tc.stex" ]
+source_file="res://wool_albedo.png"
+dest_files=[ "res://.import/wool_albedo.png-13b4480f7715040f550618b0867a4240.s3tc.stex", "res://.import/wool_albedo.png-13b4480f7715040f550618b0867a4240.etc2.stex" ]
 
 [params]
 

@@ -2,16 +2,17 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/texture_rock_ao.png-6cca74603e0052d504f2e8f3f7cc4249.s3tc.stex"
+path.s3tc="res://.import/texture_rock_ao.png-876ff29d15db920077c3a4eedf0391ba.s3tc.stex"
+path.etc2="res://.import/texture_rock_ao.png-876ff29d15db920077c3a4eedf0391ba.etc2.stex"
 metadata={
-"imported_formats": [ "s3tc" ],
+"imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
 }
 
 [deps]
 
-source_file="res://materials/texture_rock_ao.png"
-dest_files=[ "res://.import/texture_rock_ao.png-6cca74603e0052d504f2e8f3f7cc4249.s3tc.stex" ]
+source_file="res://texture_rock_ao.png"
+dest_files=[ "res://.import/texture_rock_ao.png-876ff29d15db920077c3a4eedf0391ba.s3tc.stex", "res://.import/texture_rock_ao.png-876ff29d15db920077c3a4eedf0391ba.etc2.stex" ]
 
 [params]
 

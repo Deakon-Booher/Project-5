@@ -2,16 +2,17 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/sand_normal.jpg-19701c593d697c312b9adcf9c43e389d.s3tc.stex"
+path.s3tc="res://.import/sand_normal.jpg-301374b7038f7e6f751f04aa77042dad.s3tc.stex"
+path.etc2="res://.import/sand_normal.jpg-301374b7038f7e6f751f04aa77042dad.etc2.stex"
 metadata={
-"imported_formats": [ "s3tc" ],
+"imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
 }
 
 [deps]
 
-source_file="res://materials/sand_normal.jpg"
-dest_files=[ "res://.import/sand_normal.jpg-19701c593d697c312b9adcf9c43e389d.s3tc.stex" ]
+source_file="res://sand_normal.jpg"
+dest_files=[ "res://.import/sand_normal.jpg-301374b7038f7e6f751f04aa77042dad.s3tc.stex", "res://.import/sand_normal.jpg-301374b7038f7e6f751f04aa77042dad.etc2.stex" ]
 
 [params]
 

@@ -2,16 +2,17 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/wool_depth.png-20a940c4f3deb0502ec551be4a86dbe5.s3tc.stex"
+path.s3tc="res://.import/wool_depth.png-b54a8703f10017b4c0db1af616cbeada.s3tc.stex"
+path.etc2="res://.import/wool_depth.png-b54a8703f10017b4c0db1af616cbeada.etc2.stex"
 metadata={
-"imported_formats": [ "s3tc" ],
+"imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
 }
 
 [deps]
 
-source_file="res://materials/wool_depth.png"
-dest_files=[ "res://.import/wool_depth.png-20a940c4f3deb0502ec551be4a86dbe5.s3tc.stex" ]
+source_file="res://wool_depth.png"
+dest_files=[ "res://.import/wool_depth.png-b54a8703f10017b4c0db1af616cbeada.s3tc.stex", "res://.import/wool_depth.png-b54a8703f10017b4c0db1af616cbeada.etc2.stex" ]
 
 [params]
 

@@ -2,16 +2,17 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/texture_rock_albedo.png-59db5b7b2dfe182f7316bfc6ffbeb2d7.s3tc.stex"
+path.s3tc="res://.import/texture_rock_albedo.png-a68a57186abfc0ec7c0856dd4d19e57a.s3tc.stex"
+path.etc2="res://.import/texture_rock_albedo.png-a68a57186abfc0ec7c0856dd4d19e57a.etc2.stex"
 metadata={
-"imported_formats": [ "s3tc" ],
+"imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
 }
 
 [deps]
 
-source_file="res://materials/texture_rock_albedo.png"
-dest_files=[ "res://.import/texture_rock_albedo.png-59db5b7b2dfe182f7316bfc6ffbeb2d7.s3tc.stex" ]
+source_file="res://texture_rock_albedo.png"
+dest_files=[ "res://.import/texture_rock_albedo.png-a68a57186abfc0ec7c0856dd4d19e57a.s3tc.stex", "res://.import/texture_rock_albedo.png-a68a57186abfc0ec7c0856dd4d19e57a.etc2.stex" ]
 
 [params]
 

@@ -2,16 +2,17 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/texture_cheese_normal.png-56829a0dcccd55c830ce1c4ea2f45825.s3tc.stex"
+path.s3tc="res://.import/texture_cheese_normal.png-0fa23a508b8380b2968078be79949326.s3tc.stex"
+path.etc2="res://.import/texture_cheese_normal.png-0fa23a508b8380b2968078be79949326.etc2.stex"
 metadata={
-"imported_formats": [ "s3tc" ],
+"imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
 }
 
 [deps]
 
-source_file="res://materials/texture_cheese_normal.png"
-dest_files=[ "res://.import/texture_cheese_normal.png-56829a0dcccd55c830ce1c4ea2f45825.s3tc.stex" ]
+source_file="res://texture_cheese_normal.png"
+dest_files=[ "res://.import/texture_cheese_normal.png-0fa23a508b8380b2968078be79949326.s3tc.stex", "res://.import/texture_cheese_normal.png-0fa23a508b8380b2968078be79949326.etc2.stex" ]
 
 [params]
 

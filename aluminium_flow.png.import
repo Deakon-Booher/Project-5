@@ -2,16 +2,17 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/aluminium_flow.png-e4c4801624c563efc3a112f0a89cfb0e.s3tc.stex"
+path.s3tc="res://.import/aluminium_flow.png-a53868607847a6b19b83857fdf27ef17.s3tc.stex"
+path.etc2="res://.import/aluminium_flow.png-a53868607847a6b19b83857fdf27ef17.etc2.stex"
 metadata={
-"imported_formats": [ "s3tc" ],
+"imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
 }
 
 [deps]
 
-source_file="res://materials/aluminium_flow.png"
-dest_files=[ "res://.import/aluminium_flow.png-e4c4801624c563efc3a112f0a89cfb0e.s3tc.stex" ]
+source_file="res://aluminium_flow.png"
+dest_files=[ "res://.import/aluminium_flow.png-a53868607847a6b19b83857fdf27ef17.s3tc.stex", "res://.import/aluminium_flow.png-a53868607847a6b19b83857fdf27ef17.etc2.stex" ]
 
 [params]
 

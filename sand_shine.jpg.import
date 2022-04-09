@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/sand_shine.jpg-f98bee01b8a5d505c2f1e7547eb24e7e.stex"
+path="res://.import/sand_shine.jpg-1052c3ef1aff28138658d353fe42fa08.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://materials/sand_shine.jpg"
-dest_files=[ "res://.import/sand_shine.jpg-f98bee01b8a5d505c2f1e7547eb24e7e.stex" ]
+source_file="res://sand_shine.jpg"
+dest_files=[ "res://.import/sand_shine.jpg-1052c3ef1aff28138658d353fe42fa08.stex" ]
 
 [params]
 

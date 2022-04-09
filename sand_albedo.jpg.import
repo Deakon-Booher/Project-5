@@ -2,16 +2,17 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/sand_albedo.jpg-7af6ce6d445e8307e81a3b55d1f678f2.s3tc.stex"
+path.s3tc="res://.import/sand_albedo.jpg-2e96d28fbd6ccbeedf02aa2d2eaeb3c7.s3tc.stex"
+path.etc2="res://.import/sand_albedo.jpg-2e96d28fbd6ccbeedf02aa2d2eaeb3c7.etc2.stex"
 metadata={
-"imported_formats": [ "s3tc" ],
+"imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
 }
 
 [deps]
 
-source_file="res://materials/sand_albedo.jpg"
-dest_files=[ "res://.import/sand_albedo.jpg-7af6ce6d445e8307e81a3b55d1f678f2.s3tc.stex" ]
+source_file="res://sand_albedo.jpg"
+dest_files=[ "res://.import/sand_albedo.jpg-2e96d28fbd6ccbeedf02aa2d2eaeb3c7.s3tc.stex", "res://.import/sand_albedo.jpg-2e96d28fbd6ccbeedf02aa2d2eaeb3c7.etc2.stex" ]
 
 [params]
 
